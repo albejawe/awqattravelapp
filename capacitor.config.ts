@@ -1,8 +1,8 @@
 import type { CapacitorConfig } from '@capacitor/cli';
 
 const config: CapacitorConfig = {
-  appId: 'com.awqattravel.myapp',
-  appName: 'awqat travel ',
+  appId: 'io.ionic.starter',
+  appName: 'awqattravelapp',
   webDir: 'dist'
 };
 
